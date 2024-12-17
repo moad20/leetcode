@@ -1,3 +1,3 @@
 # leetcode
-![1](https://github.com/moad20/leetcode/assets/163985965/0a7d938d-6be1-48b8-a9b3-902de5afc6ee)
-![2](https://github.com/moad20/leetcode/assets/163985965/3820f361-c3e8-47a3-b235-902eed8e9cbc)
+![image](https://github.com/user-attachments/assets/586f4f5e-f212-4a68-90bf-c84ea226d4be)
+![image](https://github.com/user-attachments/assets/e1238a1a-c23c-4fda-af9d-8a67dc1836c8)
